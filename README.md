@@ -1,0 +1,2 @@
+# Python-Music-Player
+This is simple python based media player. It allows a the user to play all types of  media - audio and video. This program supports all the codec types and has a  special feature of lyrics extraction from any song (all audio types supported)  dynamically and stores it as text file with the song title in this same directory. This porgram uses two modules to extract song lyrics namely pylyrics and lyricwikia  to extract lyrics with two methods to minimise unavailibity and unability of lyrics  extraction.
